@@ -1,9 +1,9 @@
-# Signal Peptide Prediction — LB2 Project · Group 7
+# Signal Peptide Prediction 
 
 A reproducible machine learning pipeline for **eukaryotic signal peptide (SP) prediction**, built from scratch using UniProtKB data. The project implements and compares two core approaches — a classical rule-based method (Von Heijne) and an SVM classifier — with a deep learning extension (CNN + BiLSTM on ESM-2 embeddings) developed as an optional advancement. All methods are evaluated under identical cross-validation and blind benchmark conditions.
 
 > **Course:** Laboratory of Bioinformatics 2 (LB2) · MSc Bioinformatics · University of Bologna  
-> **Group 7**
+
 
 ---
 
